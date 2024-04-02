@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **jerryHeisenberg/jerryHeisenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://variety.com/wp-content/uploads/2023/09/MSM2-Miles.png">
- <source media="(prefers-color-scheme: light)" srcset="https://variety.com/wp-content/uploads/2023/09/MSM2-Miles.png">
- <img alt="Miles Morales" src="https://variety.com/wp-content/uploads/2023/09/MSM2-Miles.png">
-</picture>
